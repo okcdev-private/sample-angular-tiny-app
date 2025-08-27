@@ -1,4 +1,4 @@
-# Angular 18.1 Sample Project
+# Angular 20.2 Sample Project
 
 <p align="center">
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular Logo" width="80"/>
@@ -8,7 +8,7 @@ This repository provides a **simple yet scalable** Angular 18.1 project setup. I
 
 ## Features
 
-- **Angular 18.1**: Built with the latest Angular version for modern web development.
+- **Angular 20.2**: Built with the latest Angular version for modern web development.
 - **Modular Architecture**: Clear separation of components, services, and models for easy maintenance.
 - **Monolithic Design**: Optimized for simple applications with scalability in mind.
 - **Unit Testing**: Preconfigured with Jasmine and Karma.
